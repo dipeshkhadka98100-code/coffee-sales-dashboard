@@ -74,21 +74,6 @@ coffee-sales-dashboard/
 
 ---
 
-## 🔗 Part of My Learning Roadmap
-
-This is **Project 1** in my Excel & Data Analytics portfolio, built as part of a structured self-learning path toward a career in accounting analytics and FP&A.
-
-**Full roadmap:** Excel → Power Query → Power BI → SQL → CPA (Alberta)
-
-| Project | Tool | Status |
-|---|---|---|
-| Coffee Sales Dashboard | Excel | ✅ Complete |
-| Data Cleaning + Financial Dashboard | Excel + Power Query | 🔄 Up next |
-| Manitoulin Financial Dashboard | Power BI | ⬜ Planned |
-| Accounting Database Queries | SQL | ⬜ Planned |
-
----
-
 ## 👤 About Me
 
 Accounting Coordinator with hands-on experience in full-cycle AR/AP, payroll, tax compliance, and multi-entity financial reporting. Building toward a CPA designation and a career in data-driven accounting and FP&A.
