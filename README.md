@@ -78,7 +78,7 @@ coffee-sales-dashboard/
 
 Accounting Coordinator with hands-on experience in full-cycle AR/AP, payroll, tax compliance, and multi-entity financial reporting. Building toward a CPA designation and a career in data-driven accounting and FP&A.
 
-📍 Ontario, Canada → Calgary (planned)
+📍 Ontario, Canada
 🔗 [LinkedIn](https://www.linkedin.com/in/dipesh07)
 
 ---
